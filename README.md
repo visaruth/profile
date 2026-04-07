@@ -12,11 +12,15 @@ Passionate Full Stack Developer with expertise in Python, AWS, and web/mobile de
 - **Frontend:** React, Vue.js, Javascript, CSS
 - **Mobile:** Flutter, React Native
 - **AI/ML:** Keras, PyTorch, Whisper Model, Cohere Embeddings, Ollama, OpenHands (OpenClaw)
+- **Data Engineering & Visualization:** Pandas, NumPy, Matplotlib, Plotly, Signal Processing (Peak Detection)
+- **Clustering & Analysis:** DBSCAN, K-Means, Mean Shift (MSA)
+- **Performance Optimization:** Parallel Processing (Multi-worker), Memory Management, Code Optimization (Vectorization)
 - **Database:** PostgreSQL, DynamoDB, Redis, OpenSearch, Elasticsearch
 
 **Cloud & DevOps:**
 - **Cloud:** AWS (Lambda, Bedrock, DynamoDB), Cloudflare (Zero Trust, Tunnel)
 - **DevOps & Security:** Git, Terraform, Docker, GoCD, GitLab CI, Datadog, SonarQube, OSV Scanner (Security Vulnerability)
+- **Automation:** PowerShell, Bash Scripting, Task Scheduling
 
 **Quantitative Research:**
 - Neural Network Modeling, Computer Vision, NLP, LLM Distillation (Thai LLM, 1-bit Precision LLM)
@@ -42,6 +46,18 @@ Passionate Full Stack Developer with expertise in Python, AWS, and web/mobile de
 *Aug 2017 — Jan 2022*
 - Managed Odoo ERP and Ubuntu servers via Docker.
 - Developed internal business web apps using Django.
+
+### **Teacher Assistant** | Thammasat University
+*2018 — Present*
+- Supported teaching and learning for diverse CS courses:
+  - **AI & Data Science:** AI Fundamentals, Data Structures & Algorithms.
+  - **Development:** Basic Programming, Object-Oriented Programming (OOP).
+  - **Infrastructure:** Database Systems.
+
+### **Software Developer Intern** | Aniccom Co., Ltd.
+*Jun 2017 — Aug 2017*
+- Developed front-end with Vue.js and back-end with Laravel.
+- Built mobile applications using React Native.
 
 ---
 
