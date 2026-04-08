@@ -76,7 +76,14 @@ Passionate Full Stack Developer with expertise in Python, AWS, and web/mobile de
 - **Master’s Thesis:** "Thai Occupation Image Classification Using Deep Learning" (Published at JCSSE 2022).
 - **Bachelor’s Project:** "Cloud Scheduler UI Development" (Presented at PRAGMA 34, Akihabara, Tokyo, Japan).
 - **ACM-ICPC 2016:** Ranked 6th in Central Zone 2 (Thailand National Programming Contest).
-- **Certifications:** Flutter, GitLab CI, FastAPI, REST API Design, Elasticsearch, Blockchain & Solidity.
+- **Certifications:**
+  - **Flutter & Dart - The Complete Guide** (Udemy)
+  - **GitLab CI: Pipelines, CI/CD and DevOps** (Udemy)
+  - **Complete Guide to Elasticsearch** (Udemy)
+  - **FastAPI - The Complete Course (Beginner + Advanced)** (Udemy)
+  - **REST API Design, Development & Management** (Udemy)
+  - **Blockchain & Smart Contract With Solidity** (Udemy)
+  - **Optimize website for Google SEO** (FutureSkill)
 
 ---
 
