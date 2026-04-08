@@ -31,10 +31,13 @@ Passionate Full Stack Developer with expertise in Python, AWS, and web/mobile de
 
 ### **Fullstack Developer (Contract)** | Krungsri Auto
 *Apr 2023 — Present*
-- Developed Python APIs on AWS Lambda and managed infrastructure via Terraform.
-- Built cross-platform mobile apps with Flutter.
-- Implemented semantic search using OpenSearch & Amazon Bedrock (Cohere).
-- Developed ASR proof-of-concept using the Whisper model.
+- Developed APIs using Python on AWS Lambda.
+- Built and managed infrastructure using Terraform: Created reusable modules for **Lambda, IAM, and API Gateway** to migrate and replace the Serverless Framework.
+- Implemented automated deployment pipelines with GoCD.
+- Created cross-platform mobile applications and websites with Flutter.
+- Researched the integration of OpenSearch with existing systems.
+- Developed a proof-of-concept for automatic speech recognition (ASR) using the Whisper model.
+- Implemented semantic search functionality using OpenSearch and Amazon Bedrock with Cohere embeddings.
 
 ### **Python Developer (Contract)** | Greenline Synergy (BDMS Subsidiary)
 *May 2022 — Mar 2023*
